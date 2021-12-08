@@ -17,6 +17,11 @@ header{
 	font-family: 'Lobster', Verdana, sans-serif;
 }
 
+/* Width and center of the main body */
+#mainbody{
+	width: 90%;
+	margin:0 auto;
+}
 
 /* Delete default styles of the menu list */
 #clearlist{
@@ -28,6 +33,12 @@ header{
 /* Center the cards */
 .myCards{
 	margin: 0 auto;
+}
+
+/* Apply style to the footer links */
+footer a {
+	color: white;	
+	text-decoration: none;
 }
 
 .h1-size{
@@ -46,6 +57,11 @@ header{
 	 height: 125px;
 }
 
+.image-full{
+	 width: 100%;
+}
 
-
+.image-half{
+	 width: 50%;
+}
 
