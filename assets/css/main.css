@@ -65,3 +65,9 @@ footer a {
 	 width: 50%;
 }
 
+/* Apply style to the actual page */
+.active-page{
+	background-color: #acacac;
+	color: black;
+}
+
